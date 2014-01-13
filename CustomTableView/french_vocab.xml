@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="FrenchVocabTitle">
+	    <item>Greetings</item>
+	    <item>Help and Directions</item>
+	    <item>Introducing yourself</item>
+        <item>Wishes</item>
+        <item>Solving a Misunderstanding</item>
+        <item>Basic expressions and words</item>
+        <item>Survival phrases</item>
+   	</string-array>
+   	
+     <array name="FrenchVocabEN">
+	    <item>@array/GreetingsEN</item>
+	    <item>@array/HelpEN</item>
+	    <item>@array/IntroducingEN</item>
+        <item>@array/WishesEN</item>
+        <item>@array/SolvingEN</item>
+        <item>@array/BasicEN</item>
+        <item>@array/SurvivalEN</item>
+   	</array>
+   	
+    <array name="FrenchVocabFR">
+	    <item>@array/GreetingsFR</item>
+	    <item>@array/HelpFR</item>
+	    <item>@array/IntroducingFR</item>
+        <item>@array/WishesFR</item>
+        <item>@array/SolvingFR</item>
+        <item>@array/BasicFR</item>
+        <item>@array/SurvivalFR</item>
+   	</array>
+   	
+    <string-array name="GreetingsEN">
+	   	<item>Hi!</item>
+	   	<item>Good morning!</item>
+	   	<item>Good evening!</item>
+	   	<item>Welcome! (to greet someone)</item>
+	   	<item>How are you?</item>
+	   	<item>I'm fine, thanks!</item>
+	   	<item>And you?</item>
+	   	<item>Good/ So-So.</item>
+	   	<item>Thank you (very much)!</item>
+	   	<item>You're welcome! (for "thank you")</item>
+	   	<item>Good night!</item>
+	   	<item>See you later!</item>
+	   	<item>Good bye!</item>
+    </string-array>
+    
+    <string-array name="GreetingsFR">
+        <item>Salut!</item>
+        <item>Bonjour! (also used in the afternoon)</item>
+        <item>Bonsoir! (After 06:00pm)</item>
+        <item>Bienvenue!</item>
+        <item>Comment allez-vous? (polite)</item>
+        <item>Je vais bien, merci!</item>
+        <item>Et vous? (polite)</item>
+        <item>Bien / Comme-ci, comme-ça.</item>
+        <item>Merci (beaucoup!)</item>
+        <item>Il n'y a pas de quoi</item>
+        <item>Bonne nuit!</item>
+        <item>A plus tard!</item>
+        <item>Au revoir!</item>
+	</string-array>
+	
+    <string-array name="HelpEN">
+        <item>I'm lost</item>
+        <item>Can you help me?</item>
+        <item>Where is the (bathroom/ pharmacy)?</item>
+        <item>I'm looking for Richard.</item>
+        <item>How much is this?</item>
+        <item>Excuse me...! (to ask for something)</item>
+        <item>Excuse me! (to pass by)</item>
+        <item>Up</item>
+        <item>Down</item>
+        <item>Left</item>
+        <item>Right</item>
+	</string-array> 
+	
+    <string-array name="HelpFR">
+        <item>Je suis perdu</item>
+        <item>Pouvez-vous m'aider? (polite)</item>
+        <item>Où sont les toilettes? Où est la pharmacie?</item>
+        <item>Je cherche Richard</item>
+        <item>Combien cela coûte?</item>
+        <item>Excusez-moi ...</item>
+        <item>Pardon!</item>
+        <item>Haut</item>
+        <item>Bas</item>
+        <item>Gauche</item>
+        <item>Droite</item>
+    </string-array>
+    
+    <string-array name="IntroducingEN">
+        <item>Do you speak (English/ French)?</item>
+        <item>Just a little.</item>
+        <item>What's your name?</item>
+        <item>My name is ...</item>
+        <item>Mr.../ Mrs.…/ Miss…</item>
+        <item>Nice to meet you!</item>
+        <item>You're very kind!</item>
+        <item>Where are you from?</item>
+        <item>I'm from (the U.S/ France)</item>
+        <item>I'm (American)</item>
+        <item>Where do you live?</item>
+        <item>I live in (the U.S/ France)</item>
+        <item>What do you do for a living?</item>
+        <item>I work as a (translator/ businessman)</item>
+        <item>How old are you?</item>
+        <item>I'm (twenty, thirty...) years old.</item>
+        <item>I have to go</item>
+        <item>I will be right back!</item>     
+    </string-array>
+    
+    <string-array name="IntroducingFR">
+        <item>Parlez-vous (Anglais/ Français)?</item>
+        <item>Juste un petit peu!</item>
+        <item>Comment vous appelez-vous (polite)</item>
+        <item>Je m'appelle …</item>
+        <item>Monsieur.../ Madame.../ Mademoiselle…</item>
+        <item>C'est un plaisir de vous rencontrer!/ Enchanté!</item>
+        <item>Vous êtes très gentil! (polite)</item>
+        <item>D'où venez-vous? (polite)</item>
+        <item>Je viens (des USA or Etats-Unis / de France)</item>
+        <item>Je suis américain/ américaine (female)</item>
+        <item>Où vivez-vous? (polite)</item>
+        <item>Je vis (aux Etats-Unis / en France)</item>
+        <item>Que faites-vous dans la vie? (polite)</item>
+        <item>Je suis (traducteur/ homme d\'affaires)</item>
+        <item>Quel âge avez-vous? (polite)</item>
+        <item>J'ai (vingt, trente ...) ans.</item>
+        <item>il faut que je parte.</item>
+        <item>Je reviens tout de suite!</item> 
+    </string-array>
+    
+   <string-array name="WishesEN">
+        <item>Congratulations!</item>
+        <item>Enjoy! (for meals...)</item>
+        <item>Bless you (when sneezing)</item>
+        <item>Good night and sweet dreams!</item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    
+    <string-array name="WishesFR">
+        <item>Félicitations!</item>
+        <item>Bon appétit!</item>
+        <item>A vos souhaits!</item>
+        <item>Bonne nuit et fais de beaux rêves!</item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    
+    <string-array name="SolvingEN">
+        <item>I'm Sorry! (if you don't hear something)</item>
+        <item>Sorry (for a mistake)</item>
+        <item>No Problem!</item>
+        <item>Can You Say It Again?</item>
+        <item>Can You Speak Slowly?</item>
+        <item>Write It Down Please!</item>
+        <item>I Don't Understand!</item>
+        <item>I Don't Know!</item>
+        <item>I Have No Idea.</item>
+        <item>What's That Called In French?</item>
+        <item>What Does "gato" Mean In English?</item>
+        <item>How Do You Say "Please" In French?</item>
+        <item>What Is This?</item>
+        <item>Don't worry!</item>
+    </string-array>
+    
+    <string-array name="SolvingFR">
+        <item>Pardon?</item>
+        <item>Je suis désolé</item>
+        <item>Ça n'est pas grave!</item>
+        <item>Pourriez-vous répéter?</item>
+        <item>Pourriez-vous parler un peu moins vite ?</item>
+        <item>Est-ce que vous pourriez l\'écrire?</item>
+        <item>Je ne comprends pas!</item>
+        <item>Je ne sais pas!</item>
+        <item>Je n'en sais rien.</item>
+        <item>Comment dit-on cela en français?</item>
+        <item>Comment dit-on "gâteau" en anglais?</item>
+        <item>Comment dit-on "Please" en français?</item>
+        <item>Qu'est-ce que c\'est?</item>
+        <item>Ne vous inquiétez pas! (polite)</item>
+    </string-array>
+    
+    <string-array name="BasicEN">
+        <item>I love you!</item>
+        <item>I feel sick.</item>
+        <item>I need a doctor</item>
+        <item>One, Two, Three</item>
+        <item>Four, Five, Six</item>
+        <item>Seven, Eight, Nine, Ten</item>
+    </string-array>
+    
+    <string-array name="BasicFR">
+        <item>Je t'aime!</item>
+        <item>Je me sens malade</item>
+        <item>J'ai besoin d\'un docteur</item>
+        <item>Un, deux, trois</item>
+        <item>quatre, cinq, six</item>
+        <item>sept, huit, neuf, dix.</item>
+    </string-array>
+    
+    <string-array name="SurvivalEN">
+        <item>Emergency!</item>
+        <item>I need a doctor!</item>
+        <item>Are you in pain?</item>
+        <item>I will take you to the hospital.</item>
+        <item>What is wrong?</item>
+        <item>Are you injured?</item>
+        <item>It hurts !/It\'s painful !</item>
+        <item>Take care !</item>
+        <item>It's cold.</item>
+        <item>It's hot.</item>
+        <item>Give me a break !/Leave me alone !</item>
+        <item>Go away!</item>
+        <item>Call the police.</item>
+        <item>I've just been robbed.</item>
+    </string-array>
+    
+    <string-array name="SurvivalFR">
+        <item>Urgence</item>
+        <item>Il me faut un médecin !</item>
+        <item>Avez-vous mal ?</item>
+        <item>Je vais vous emmener à l'hôpital.</item>
+        <item>Qu'est ce qui ne va pas ?</item>
+        <item>Êtes-vous blessé ?</item>
+        <item>J\'ai mal !</item>
+        <item>Faites attention !</item>
+        <item>C'est froid.</item>
+        <item>C'est chaud.</item>
+        <item>Laissez-moi tranquille !</item>
+        <item>Partez !</item>
+        <item>Appelez la police/appelez la gendarmerie.</item>
+        <item>Je viens d'être victime de vol.</item>
+    </string-array>
+	
+</resources>

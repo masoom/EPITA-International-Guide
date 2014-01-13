@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+   <string-array name="faqQuestions">
+       
+	    <item>Do you have any scholarship that I can apply for?</item>
+	    <item>How can I afford the tuition fees?</item>
+	    <item>What kind of job can I do part time?</item>
+        <item>How many hours am I allow to work?</item>
+        <item>How can I get an internship?</item>
+        <item>How to apply for the French social security?</item>
+        <item>How can I get my residence card (“carte de séjour”)?</item>
+        <item>How many hours a week of French do I have?</item>
+        <item>How can I handle the cultural shock?</item>
+	</string-array>
+	
+	<string-array name="faqAnswers">
+        <item><![CDATA[ EPITA is recognized by the French State.You can apply for the Eiffel excellence scholarship program. However it is quite tough to get it. For more information:\n http://www.egide.asso.fr/jahia/Jahia/lang/en/accueil/appels/eiffel \n At this time, EPITA does not provide Fulbright scholarships. Please inquire with the Education Ministry in your country as well as the French Embassy, Alliance Française and Campus France in your region. \n
+	        Furthermore, if you cannot locate appropriate funding to join the Fall cohort, note that EPITA can complimentarily postpone your entrance to Winter and vice versa.\n
+	        Our website offers funding resources here:\n
+	        <a>http://masters.epita.fr/master-in-france.aspx.</a>]]> </item>
+        
+        <item>In order to afford the tuitions fees (12.400€), you need to know that you will pass your 3rd semester in a firm (internship) which will pay you about 1.100€/month and it lasts at least 6 months.\nYou can work during the summer because you are on vacation and also got time to work part time.\nInternational Masters have approximately 20 hours of courses per week.It lets you not much time to get a job but there are some missions you can get anyway(like Mc Donald’s for instance).
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        </item>
+		
+		<item>“CRISTAL” is the “business student association” of EPITA. Its aim is to allow students of EPITA to work in IT services during their program. The annual turnover (800 000 €) of this association ranks CRISTAL in the top five of France. \n\nIt has partnerships with companies that offer short missions (on a daily basis) for a compensation of 200 € a day.
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+        </item>
+        
+        <item>
+            The international master’s students from EPITA are only allowed to work part time (maximum of 20 hours per week after state authorization).
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            \n
+            
+        </item>
+         
+         <item><![CDATA[ Within our program, there is a 6-month built in paid internship semester that is often the first steptowards full time employment for our students. \n In addition, our Career Services receives over 3,000 jobs and internships offers per year when our school graduates around 300 students. Lastly, several employment events are scheduled on campus each year to insure all graduates secure the best possible professional option. \nI invite you to consult further details on the professional opportunities for EPITA alumni here: \n  http://www.epita.fr/masters/jobs-career-recruitment-survey.aspx  ]]> </item>
+         
+         <item><![CDATA[ You need to get your residence card (“carte de séjour”),then you can fulfill the form (we give you one) and choose between the two “mutuelles”: SMEREP or LMDE. \n\nMore information about the ‘LMDE’ on this link:
+         \n  http://www.lmde.com/index.php?id=1031#c384 \n More information about the ‘SMEREP’ on this link:
+         \n  http://www.smerep.fr/secu-etudiante/etudiants-etrangers \n\nThe cost of the social security is approximately 200 € per year.If you wish an additional coverage than the minimum required, the cost will then depend on
+         the coverage wanted. ]]> </item>
+         
+         <item>A “carte de séjour” (CDS) or “titre de séjour” is an official residency card in France, 
+         that you can apply for once in France.
+         \nYou must have a long-stay visa in order to receive a CDS. 
+         \nYou cannot move to France and obtain a CDS without a long-stay visa even 
+         if you are married to a French citizen (either before or after entering France). 
+         \nIf you are an EU citizen, or have dual citizenship with an EU state, then you do not need a visa 
+         or a CDS, unless you are coming from Bulgaria or Romania. 
+         \nIf you a non EU citizen, you have to supply the following documents in order to get your residency card: 
+         \n\n*Identification papers : original and copy
+         \n\n*Your passport currently valid
+         \n\n*Birth certificate: translated into French by an official translator from French courts (original and copy)
+         \n\n*Visa of your entrance in France (original and copy)
+         \n\n*Proof of residency in France: copy of lease or EDF or France Telecom bill, letter form and copy of identity 
+         card of person you are living with
+         \n\n*EPITA’s registration certificate
+         \n\n*3 identity photos</item>
+         
+         <item>You will have intensive French courses on the first week you begin at EPITA, and then you’ll have 3 hours/week.\n When you are enrolled at EPITA, we open you an e-learning account so that you can improve your French before you come to Paris.
+             \n
+             \n
+             \n
+             \n
+             \n
+             \n
+             \n
+             \n
+             \n
+             \n
+             \n
+             \n</item>
+         
+         <item>You will have at EPITA a course during your first semester to learn how to handle
+         the shock and learn more about the French culture and what kind of prejudices French people can have
+         about your culture and what are the one you have about French people. 
+         \n\nWe have a student union called Euro-fil which takes care about foreign students. 
+         It will help you in handling the cultural shock and in any other trouble you might be confronted to,
+         in order to make yourself feel safe and not alone. 
+         \n\nThey organize many parties as well so that you can meet people who might be the same nationality as your's,
+         and also many tourist visits in in Paris.</item>
+	</string-array>
+    
+</resources>
